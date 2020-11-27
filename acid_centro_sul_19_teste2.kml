@@ -12,7 +12,7 @@
 	</Schema>
 	<Style id="normPointStyle">
 		<IconStyle>
-			<color>ffffff00</color>
+			<color>00ffff00</color>
 			<scale>0.4</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
